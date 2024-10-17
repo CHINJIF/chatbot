@@ -14,3 +14,6 @@ python app.py
 ```bash
 python server.py
 ```
+
+Now you should see UI
+![Alt text](data/img/image.png)
